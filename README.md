@@ -171,4 +171,4 @@ The DoS tests were the most eye-opening. A firewall that shrugged off a brute-fo
 
 ## Author
 
-**Geoffrey Mackey**, Cybersecurity and Information Technology student at the University of Cincinnati.
+**Geoffrey Mackey**, Cybersecurity Professional & Student at the University of Cincinnati.
