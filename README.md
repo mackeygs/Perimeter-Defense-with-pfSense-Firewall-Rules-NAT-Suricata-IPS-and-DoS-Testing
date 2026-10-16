@@ -1,0 +1,2 @@
+# Perimeter-Defense-with-pfSense-Firewall-Rules-NAT-Suricata-IPS-and-DoS-Testing
+Network defense project: I placed a pfSense firewall between a corporate LAN and a simulated internet, configured it from scratch, then attacked it. I published a web server via NAT port forwarding, blocked a hostile subnet, enabled Suricata IDS/IPS to stop scans, and stress-tested the firewall with two DoS tools to find its breaking point.
